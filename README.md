@@ -1,7 +1,7 @@
 # <p align="center">Hi 👋 I'm Bhavesh Bisht</p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;Data+Analytics+Student;C+Java+Python+Developer;Web+Development+Learner;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub+Profile;Data+Analytics+Student;C+Java+Python+Developer;Web+Development+Learner;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -14,30 +14,30 @@
 
 # 🚀 About Me
 
-- 🎓 Student interested in **Data Analytics**
-- 💻 Learning **Programming and Web Development**
-- 📊 Interested in **Data Visualization & Data Analysis**
-- 🚀 Always exploring new technologies
+🎓 Student interested in **Data Analytics**  
+💻 Learning **Programming and Web Development**  
+📊 Passionate about **Data Visualization & Analysis**  
+🚀 Exploring new technologies every day  
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p>
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
 </a>
 
 </p>
 
 ---
 
-# 💻 Tech Stack
+# 💻 Programming Languages
 
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
@@ -49,7 +49,7 @@
 
 ---
 
-# 🧰 Tools
+# 🧰 Tools & Technologies
 
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
@@ -83,7 +83,7 @@
 
 ---
 
-# 📊 Contribution Graph
+# 📊 GitHub Contribution Graph
 
 [![Bhavesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
 
@@ -91,33 +91,32 @@
 
 # 📂 Featured Projects
 
-## 📊 Data Analytics
-- Sales Data Analysis (Excel)
-- Customer Segmentation (Python)
-- SQL Data Analysis
+### 📊 Data Analytics
+- Sales Data Analysis using Excel  
+- Customer Segmentation using Python  
+- SQL Data Analysis Project  
 
-## 💻 Programming
-- C Programming Practice
-- Java Console Applications
-- Python Automation Scripts
+### 💻 Programming
+- C Programming Practice  
+- Java Console Applications  
+- Python Automation Scripts  
 
-## 🌐 Web Development
-- Responsive Website using HTML CSS JS
-- Personal Portfolio Website
+### 🌐 Web Development
+- Responsive Website using HTML CSS JS  
+- Personal Portfolio Website  
 
 ---
 
-# 📚 Learning Roadmap
+# 📚 Currently Learning
 
 - Data Analytics
 - Machine Learning
 - Advanced SQL
 - Power BI Dashboards
-- Data Visualization
 
 ---
 
-# 🧠 Dev Quote
+# 🧠 Developer Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
@@ -125,15 +124,15 @@
 
 # 🎮 Hobbies
 
-- Gaming 🎮
-- Coding 💻
-- Exploring new tech 🚀
+- Gaming 🎮  
+- Coding 💻  
+- Learning new technologies 🚀  
 
 ---
 
 # ⭐ Support
 
-If you like my work, consider giving a ⭐ to the repositories.
+If you like my work, please ⭐ my repositories.
 
 ---
 
