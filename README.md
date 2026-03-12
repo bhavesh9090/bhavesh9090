@@ -4,10 +4,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub+Profile;Aspiring+Data+Analyst;C+Java+Python+Developer;Web+Development+Learner;Passionate+about+AI+and+Data" />
 </p>
 
----
-
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=blue&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=for-the-badge" />
 </p>
 
 ---
@@ -15,94 +13,110 @@
 # 🚀 About Me
 
 🎓 BCA Student interested in **Data Analytics**  
-📊 Love working with **data, dashboards and insights**  
-💻 Learning **Programming & Web Development**  
-🤖 Exploring **AI and Machine Learning**
+📊 Love working with **data analysis and visualization**  
+💻 Learning **programming and web development**  
+🤖 Interested in **AI and Machine Learning**
 
 ---
 
-# 🧠 Data Analytics & AI
+# 📊 Data Analytics & AI
 
 <p align="center">
-<img width="600" src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1200&auto=format&fit=crop"/>
+<img width="650" src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1200&auto=format&fit=crop"/>
 </p>
 
 <p align="center">
-<i>Turning raw data into meaningful insights</i>
+<i>Transforming raw data into meaningful insights</i>
 </p>
 
 ---
 
 # 💻 Programming Languages
 
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+<p align="center">
 
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="65"/>
 
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="65"/>
 
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="65"/>
 
-![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65"/>
 
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65"/>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="65"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65"/>
+
+</p>
 
 ---
 
 # 🧰 Tools & Technologies
 
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+<p align="center">
 
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/>
 
-![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60"/>
 
-![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoftexcel)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60"/>
 
-![Power BI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
+
+</p>
 
 ---
 
 # 📊 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+</p>
 
 ---
 
 # 🔥 GitHub Streak
 
-![streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+</p>
 
 ---
 
 # 📈 Most Used Languages
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
 # 📊 GitHub Activity Graph
 
-![graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+</p>
 
 ---
 
 # 📂 Featured Projects
 
 ### 📊 Data Analytics
-• Sales Data Analysis (Excel)  
-• Customer Segmentation (Python)  
-• SQL Data Analysis  
+• Sales Data Analysis using Excel  
+• Customer Segmentation using Python  
+• SQL Data Analysis Project  
 
 ### 💻 Programming
-• C Programming Projects  
+• C Programming Practice  
 • Java Console Applications  
 • Python Automation Scripts  
 
 ### 🌐 Web Development
-• Responsive Website (HTML CSS JS)  
+• Responsive Website using HTML CSS JS  
 • Personal Portfolio Website  
 
 ---
@@ -111,8 +125,8 @@
 
 📊 Data Analytics  
 🤖 Machine Learning  
-🗄 Advanced SQL  
 📈 Power BI Dashboards  
+🗄 Advanced SQL  
 
 ---
 
@@ -124,7 +138,7 @@
 
 # ⭐ Support
 
-If you like my work please ⭐ my repositories.
+If you like my work please ⭐ the repositories.
 
 ---
 
