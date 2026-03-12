@@ -17,7 +17,7 @@
 - 🎓 Student interested in **Data Analytics**
 - 💻 Learning **Programming and Web Development**
 - 📊 Interested in **Data Visualization & Data Analysis**
-- 🚀 Always learning new technologies
+- 🚀 Always exploring new technologies
 
 ---
 
@@ -25,11 +25,11 @@
 
 <p align="left">
 
-<a href="https://linkedin.com/">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:YOUR_EMAIL@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
 </a>
 
@@ -37,19 +37,25 @@
 
 ---
 
-# 💻 Languages and Tools
+# 💻 Tech Stack
 
-<p align="left">
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
-<img src="https://skillicons.dev/icons?i=c" />
-<img src="https://skillicons.dev/icons?i=cpp" />
-<img src="https://skillicons.dev/icons?i=java" />
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=javascript" />
+---
 
-</p>
+# 🧰 Tools
+
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+![Power BI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi)
+![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoftexcel)
 
 ---
 
@@ -77,7 +83,7 @@
 
 ---
 
-# 📊 GitHub Activity Graph
+# 📊 Contribution Graph
 
 [![Bhavesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
 
@@ -85,28 +91,35 @@
 
 # 📂 Featured Projects
 
-### 📊 Data Analytics
+## 📊 Data Analytics
 - Sales Data Analysis (Excel)
 - Customer Segmentation (Python)
 - SQL Data Analysis
 
-### 💻 Programming
-- C Language Programs
-- Java Console Projects
+## 💻 Programming
+- C Programming Practice
+- Java Console Applications
 - Python Automation Scripts
 
-### 🌐 Web Development
+## 🌐 Web Development
 - Responsive Website using HTML CSS JS
-- Portfolio Website
+- Personal Portfolio Website
 
 ---
 
-# 📖 Currently Learning
+# 📚 Learning Roadmap
 
 - Data Analytics
 - Machine Learning
 - Advanced SQL
-- Power BI
+- Power BI Dashboards
+- Data Visualization
+
+---
+
+# 🧠 Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
@@ -114,13 +127,13 @@
 
 - Gaming 🎮
 - Coding 💻
-- Learning new technologies 🚀
+- Exploring new tech 🚀
 
 ---
 
 # ⭐ Support
 
-If you like my work, please ⭐ my repositories.
+If you like my work, consider giving a ⭐ to the repositories.
 
 ---
 
