@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=blue&style=for-the-badge" />
 </p>
 
 ---
@@ -13,13 +13,13 @@
 # 🚀 About Me
 
 🎓 BCA Student interested in **Data Analytics**  
-📊 Love working with **data analysis and visualization**  
-💻 Learning **programming and web development**  
-🤖 Interested in **AI and Machine Learning**
+📊 Passionate about **Data Visualization and Insights**  
+💻 Learning **Programming and Web Development**  
+🤖 Interested in **AI & Machine Learning**
 
 ---
 
-# 📊 Data Analytics & AI
+# 📊 Data Analytics
 
 <p align="center">
 <img width="650" src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1200&auto=format&fit=crop"/>
@@ -65,8 +65,6 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
-
 </p>
 
 ---
@@ -87,7 +85,7 @@
 
 ---
 
-# 📈 Most Used Languages
+# 📈 Top Languages
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
@@ -95,7 +93,7 @@
 
 ---
 
-# 📊 GitHub Activity Graph
+# 📊 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
@@ -108,7 +106,7 @@
 ### 📊 Data Analytics
 • Sales Data Analysis using Excel  
 • Customer Segmentation using Python  
-• SQL Data Analysis Project  
+• SQL Data Analysis  
 
 ### 💻 Programming
 • C Programming Practice  
@@ -138,7 +136,7 @@
 
 # ⭐ Support
 
-If you like my work please ⭐ the repositories.
+If you like my work please ⭐ my repositories.
 
 ---
 
