@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhavesh Bisht</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub+Profile;Aspiring+Data+Analyst;C+Java+Python+Developer;Web+Development+Learner;Passionate+about+AI+and+Data" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=750&lines=Welcome+to+My+GitHub+Profile;Data+Analytics+Enthusiast;Python+SQL+PowerBI+Learner;Turning+Data+into+Insights;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
@@ -12,10 +12,10 @@
 
 # 🚀 About Me
 
-🎓 BCA Student interested in **Data Analytics**  
-📊 Passionate about **Data Visualization and Insights**  
-💻 Learning **Programming and Web Development**  
-🤖 Interested in **AI & Machine Learning**
+📊 Passionate about **Data Analytics and Data Visualization**  
+📈 Interested in **turning raw data into meaningful insights**  
+💻 Learning **Python, SQL, Excel, Power BI & Web Technologies**  
+🤖 Exploring **AI and Machine Learning**
 
 ---
 
@@ -26,7 +26,39 @@
 </p>
 
 <p align="center">
-<i>Transforming raw data into meaningful insights</i>
+<i>Transforming raw data into actionable insights</i>
+</p>
+
+---
+
+# 📊 Data Analytics Tools
+
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="65"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="65"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="65"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="65"/>
+
+</p>
+
+---
+
+# 📊 Visualization & BI Tools
+
+<p align="center">
+
+<img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="65"/>
+
+<img src="https://img.icons8.com/color/96/power-bi.png" width="65"/>
+
+<img src="https://img.icons8.com/color/96/tableau-software.png" width="65"/>
+
 </p>
 
 ---
@@ -41,19 +73,17 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="65"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="65"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65"/>
-
 </p>
 
 ---
 
-# 🧰 Tools & Technologies
+# ⚙️ Tools & Technologies
 
 <p align="center">
 
@@ -62,8 +92,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/>
 
 </p>
 
@@ -104,24 +132,23 @@
 # 📂 Featured Projects
 
 ### 📊 Data Analytics
-• Sales Data Analysis using Excel  
-• Customer Segmentation using Python  
-• SQL Data Analysis  
+• Sales Data Analysis (Excel)  
+• Customer Segmentation (Python)  
+• SQL Data Analysis Project  
+
+### 📈 Dashboards
+• Power BI Sales Dashboard  
+• Tableau Business Insights Dashboard  
 
 ### 💻 Programming
-• C Programming Practice  
+• Python Data Cleaning Scripts  
 • Java Console Applications  
-• Python Automation Scripts  
-
-### 🌐 Web Development
-• Responsive Website using HTML CSS JS  
-• Personal Portfolio Website  
 
 ---
 
 # 📚 Currently Learning
 
-📊 Data Analytics  
+📊 Advanced Data Analytics  
 🤖 Machine Learning  
 📈 Power BI Dashboards  
 🗄 Advanced SQL  
@@ -136,7 +163,7 @@
 
 # ⭐ Support
 
-If you like my work please ⭐ my repositories.
+If you like my work please ⭐ the repositories.
 
 ---
 
