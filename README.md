@@ -2,7 +2,7 @@
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=750&lines=Welcome+to+My+GitHub+Profile;Data+Analytics+Enthusiast;Python+SQL+PowerBI+Learner;Turning+Data+into+Insights;Always+Learning+New+Technologies" />
-</p>
+</p> 
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=bhavesh9090&label=Profile%20views&color=blue&style=for-the-badge" />
