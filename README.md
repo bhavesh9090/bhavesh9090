@@ -47,7 +47,7 @@
 </p>
 ---
 
-# 📊 Visualization & BI Tools
+# 📊 Visualization & BI Tools 
 
 <p align="center">
 
