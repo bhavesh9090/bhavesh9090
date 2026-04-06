@@ -45,7 +45,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="65"/>
 
 </p>
-
 ---
 
 # 📊 Visualization & BI Tools
