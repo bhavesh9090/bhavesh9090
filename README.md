@@ -139,7 +139,7 @@
 • Tableau Business Insights Dashboard  
 
 ### 💻 Programming
-• Python Data Cleaning Scripts  
+• Python Data Cleaning Scripts 
 • Java Console Applications  
 
 ---
