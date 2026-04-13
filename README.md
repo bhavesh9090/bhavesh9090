@@ -18,7 +18,6 @@
 🤖 Exploring **AI and Machine Learning**
 
 ---
-
 # 📊 Data Analytics   
  
 <p align="center">
