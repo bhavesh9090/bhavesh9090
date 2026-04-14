@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bhavesh Bisht</h1>
+<h1 align="center">Hi 👋, I'm Bhavesh Bisht</h1> 
  
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=750&lines=Welcome+to+My+GitHub+Profile;Data+Analytics+Enthusiast;Python+SQL+PowerBI+Learner;Turning+Data+into+Insights;Always+Learning+New+Technologies" />
